@@ -1,0 +1,10 @@
+*egg*
+*lock.json
+node_modules/
+htmlcov
+*coverage
+*cache*
+*.pyc
+.idea
+dist
+*cfg
